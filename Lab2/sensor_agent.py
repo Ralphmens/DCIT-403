@@ -22,7 +22,7 @@ class SensorAgent(Agent):
 
 
 async def main():
-    agent = SensorAgent("sensor@localhost", "password123")
+    agent = SensorAgent("sensor@localhost", "1234567890")
     await agent.start()
     await asyncio.sleep(30)
     await agent.stop()
