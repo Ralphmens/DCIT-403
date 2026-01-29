@@ -1,0 +1,12 @@
+Detected severity: MEDIUM
+Detected severity: HIGH
+Detected severity: MEDIUM
+Detected severity: MEDIUM
+Detected severity: MEDIUM
+Detected severity: MEDIUM
+Detected severity: MEDIUM
+Detected severity: MEDIUM
+Detected severity: LOW
+Detected severity: LOW
+Detected severity: LOW
+Detected severity: HIGH
