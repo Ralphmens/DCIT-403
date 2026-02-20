@@ -1,2 +1,2 @@
 # DCIT-403
-Intelligent Agent
+Designing Intelligent Agents
